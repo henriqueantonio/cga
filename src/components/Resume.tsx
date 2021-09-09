@@ -3,11 +3,11 @@ import {
   VStack,
   Heading,
   Text,
-  Image,
   useBreakpointValue,
 } from '@chakra-ui/react';
 
 import { Card } from '@/components/Card';
+import { ImageViewer } from '@/components/ImageViewer';
 import { Contact } from './Contact';
 
 function Resume() {
@@ -34,9 +34,9 @@ function Resume() {
             alergistas/dermatologistas.
           </Text>
           <Text textAlign="justify">
-            As imagens são devem ser necessáriamente anônimas e não serão usadas
-            para cunho comercial, <strong>EXCLUSIVAMENTE </strong>
-            para estudo.
+            As imagens são necessáriamente anônimas,
+            <strong> EXCLUSIVAMENTE </strong>
+            para estudo e de cunho não comercial.
           </Text>
           <Text textAlign="justify">
             Caso o projeto se estenda a uma implementação funcional, o mesmo que
@@ -50,16 +50,16 @@ function Resume() {
             <Contact
               name="Henrique Antonio"
               avatar="https://github.com/henriqueantonio.png"
-              link="https://api.whatsapp.com/send?phone=45999069644"
+              link="https://api.whatsapp.com/send?phone=5545999069644"
             />
             <Contact
               name="Matheus Henrique"
               avatar="https://github.com/gaiake12.png"
-              link="https://api.whatsapp.com/send?phone=41992353701"
+              link="https://api.whatsapp.com/send?phone=5541992353701"
             />
           </Stack>
         </VStack>
-        <Image
+        <ImageViewer
           w={w}
           objectFit="contain"
           src="/images/testes.jpeg"
