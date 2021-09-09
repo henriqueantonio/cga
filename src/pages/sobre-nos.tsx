@@ -5,73 +5,10 @@ function AboutUs() {
   return (
     <Container>
       <Card>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt
-        distinctio quas, dolore velit consequatur debitis ipsam. Iste, sequi
-        voluptate, inventore ducimus quia, maiores nulla magnam debitis
-        veritatis optio velit omnis. Lorem ipsum dolor sit amet consectetur
-        adipisicing elit. Consequatur odit necessitatibus deserunt molestias
-        ratione. Provident sapiente rem optio iure illum. Unde quos quibusdam
-        ipsa id odio! Saepe natus molestiae sint? Lorem ipsum dolor sit amet
-        consectetur adipisicing elit. Pariatur atque cumque labore nihil rem?
-        Deleniti aliquam repellendus quaerat eum quis! Enim quaerat corrupti
-        inventore, labore odit assumenda dicta quisquam in? Lorem ipsum dolor
-        sit amet consectetur adipisicing elit. Incidunt distinctio quas, dolore
-        velit consequatur debitis ipsam. Iste, sequi voluptate, inventore
-        ducimus quia, maiores nulla magnam debitis veritatis optio velit omnis.
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-        odit necessitatibus deserunt molestias ratione. Provident sapiente rem
-        optio iure illum. Unde quos quibusdam ipsa id odio! Saepe natus
-        molestiae sint? Lorem ipsum dolor sit amet consectetur adipisicing elit.
-        Pariatur atque cumque labore nihil rem? Deleniti aliquam repellendus
-        quaerat eum quis! Enim quaerat corrupti inventore, labore odit assumenda
-        dicta quisquam in? Lorem ipsum dolor sit amet consectetur adipisicing
-        elit. Incidunt distinctio quas, dolore velit consequatur debitis ipsam.
-        Iste, sequi voluptate, inventore ducimus quia, maiores nulla magnam
-        debitis veritatis optio velit omnis. Lorem ipsum dolor sit amet
-        consectetur adipisicing elit. Consequatur odit necessitatibus deserunt
-        molestias ratione. Provident sapiente rem optio iure illum. Unde quos
-        quibusdam ipsa id odio! Saepe natus molestiae sint? Lorem ipsum dolor
-        sit amet consectetur adipisicing elit. Pariatur atque cumque labore
-        nihil rem? Deleniti aliquam repellendus quaerat eum quis! Enim quaerat
-        corrupti inventore, labore odit assumenda dicta quisquam in? Lorem ipsum
-        dolor sit amet consectetur adipisicing elit. Incidunt distinctio quas,
-        dolore velit consequatur debitis ipsam. Iste, sequi voluptate, inventore
-        ducimus quia, maiores nulla magnam debitis veritatis optio velit omnis.
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-        odit necessitatibus deserunt molestias ratione. Provident sapiente rem
-        optio iure illum. Unde quos quibusdam ipsa id odio! Saepe natus
-        molestiae sint? Lorem ipsum dolor sit amet consectetur adipisicing elit.
-        Pariatur atque cumque labore nihil rem? Deleniti aliquam repellendus
-        quaerat eum quis! Enim quaerat corrupti inventore, labore odit assumenda
-        dicta quisquam in? Lorem ipsum dolor sit amet consectetur adipisicing
-        elit. Incidunt distinctio quas, dolore velit consequatur debitis ipsam.
-        Iste, sequi voluptate, inventore ducimus quia, maiores nulla magnam
-        debitis veritatis optio velit omnis. Lorem ipsum dolor sit amet
-        consectetur adipisicing elit. Consequatur odit necessitatibus deserunt
-        molestias ratione. Provident sapiente rem optio iure illum. Unde quos
-        quibusdam ipsa id odio! Saepe natus molestiae sint? Lorem ipsum dolor
-        sit amet consectetur adipisicing elit. Pariatur atque cumque labore
-        nihil rem? Deleniti aliquam repellendus quaerat eum quis! Enim quaerat
-        corrupti inventore, labore odit assumenda dicta quisquam in? Lorem ipsum
-        dolor sit amet consectetur adipisicing elit. Incidunt distinctio quas,
-        dolore velit consequatur debitis ipsam. Iste, sequi voluptate, inventore
-        ducimus quia, maiores nulla magnam debitis veritatis optio velit omnis.
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-        odit necessitatibus deserunt molestias ratione. Provident sapiente rem
-        optio iure illum. Unde quos quibusdam ipsa id odio! Saepe natus
-        molestiae sint? Lorem ipsum dolor sit amet consectetur adipisicing elit.
-        Pariatur atque cumque labore nihil rem? Deleniti aliquam repellendus
-        quaerat eum quis! Enim quaerat corrupti inventore, labore odit assumenda
-        dicta quisquam in? Lorem ipsum dolor sit amet consectetur adipisicing
-        elit. Incidunt distinctio quas, dolore velit consequatur debitis ipsam.
-        Iste, sequi voluptate, inventore ducimus quia, maiores nulla magnam
-        debitis veritatis optio velit omnis. Lorem ipsum dolor sit amet
-        consectetur adipisicing elit. Consequatur odit necessitatibus deserunt
-        molestias ratione. Provident sapiente rem optio iure illum. Unde quos
-        quibusdam ipsa id odio! Saepe natus molestiae sint? Lorem ipsum dolor
-        sit amet consectetur adipisicing elit. Pariatur atque cumque labore
-        nihil rem? Deleniti aliquam repellendus quaerat eum quis! Enim quaerat
-        corrupti inventore, labore odit assumenda dicta quisquam in?
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea officiis
+        eos in magni laborum beatae, commodi at nulla debitis. Accusamus quos
+        suscipit aspernatur hic rem cumque cupiditate laudantium officiis
+        ducimus!
       </Card>
     </Container>
   );
