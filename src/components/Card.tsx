@@ -1,15 +1,14 @@
-import { Flex, Text } from '@chakra-ui/react';
+import { ReactNode } from 'react';
+import { Flex, FlexProps } from '@chakra-ui/react';
 
-interface CardProps {
-  children: string;
+interface CardProps extends FlexProps {
+  children: ReactNode;
 }
 
-function Card({ children }: CardProps) {
+function Card({ children, ...rest }: CardProps) {
   return (
-    <Flex bg="white" m="10" p="5" borderRadius="md" boxShadow="base">
-      <Text color="gray.800" textAlign="justify">
-        {children}
-      </Text>
+    <Flex p="5" {...rest}>
+      {children}
     </Flex>
   );
 }

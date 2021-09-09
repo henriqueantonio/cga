@@ -17,7 +17,7 @@ function Container({ children, ...data }: ContainerProps) {
         <Background />
         {children}
       </Flex>
-      <Footer />
+      {/* <Footer /> */}
     </Flex>
   );
 }
