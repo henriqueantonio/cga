@@ -18,31 +18,31 @@ function Resume() {
       <Stack spacing="10" align="center">
         <VStack w={w} align="flex-start" spacing="6">
           <Heading>Resumo</Heading>
-          <Text textAlign="justify">
+          <Text textAlign="left">
             <strong>Olá</strong>, somos estudantes de
             <strong> Ciência da Computação </strong>
             na PUC-PR realizando um trabalho de conclusão de curso focado na
             <strong> classificação do grau de alergias</strong> usando
             algoritmos de aprendizagem de máquina.
           </Text>
-          <Text textAlign="justify">
+          <Text textAlign="left">
             Para isso, se faz necessário uma grande quantidade de imagens de
             testes alérgicos (de contato) para uma análise satisfatória.
           </Text>
-          <Text textAlign="justify">
+          <Text textAlign="left">
             Hoje já contamos com 1200 imagens já enviadas por outros
-            alergistas/dermatologistas.
+            dermatologistas.
           </Text>
-          <Text textAlign="justify">
-            As imagens são necessáriamente anônimas,
+          <Text textAlign="left">
+            As imagens são necessariamente anônimas,
             <strong> EXCLUSIVAMENTE </strong>
             para estudo e de cunho não comercial.
           </Text>
-          <Text textAlign="justify">
+          <Text textAlign="left">
             Caso o projeto se estenda a uma implementação funcional, o mesmo que
             contribuiu com as imagens terá total direito de usufruí-la.
           </Text>
-          <Text textAlign="justify">
+          <Text textAlign="left">
             Caso possua imagens e queria contribuir, contate-nos através do
             <strong> e-mail</strong> ou <strong>Whastapp</strong>.
           </Text>
