@@ -3,7 +3,6 @@ import { Flex, FlexProps } from '@chakra-ui/react';
 
 import { Background } from '@/components/Background';
 import { Header } from './Header';
-import { Footer } from './Footer';
 
 interface ContainerProps extends FlexProps {
   children: ReactNode;

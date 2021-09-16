@@ -43,7 +43,7 @@ function Resume() {
             contribuiu com as imagens terá total direito de usufruí-la.
           </Text>
           <Text textAlign="left">
-            Caso possua imagens e queria contribuir, contate-nos através do
+            Caso possua imagens e queira contribuir, contate-nos através do
             <strong> e-mail</strong> ou <strong>Whastapp</strong>.
           </Text>
           <Stack direction={{ base: `column`, xl: `row` }} w="100%">
