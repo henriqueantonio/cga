@@ -31,6 +31,7 @@
     "@chakra-ui/react": "1.6.7",
     "@emotion/react": "^11",
     "@emotion/styled": "^11",
+    "@tensorflow/tfjs": "3.9.0",
     "framer-motion": "^4",
     "next": "11.1.2",
     "next-google-fonts": "2.2.0",

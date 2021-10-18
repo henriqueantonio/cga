@@ -1,7 +1,20 @@
+import { ChangeEvent } from 'react';
+
 import { Flex, Heading, Text, useBreakpointValue } from '@chakra-ui/react';
 
-function InputFile() {
+interface InputFileProps {
+  setImage(image: any): void;
+}
+
+function InputFile({ setImage }: InputFileProps) {
   const size = useBreakpointValue({ base: `md`, md: `lg` });
+
+  async function handleImage(e: ChangeEvent<HTMLInputElement>) {
+    const images = e.target.files;
+    if (images != null && images[0]) {
+      setImage(images[0]);
+    }
+  }
 
   return (
     <form style={{ flex: 1 }}>
@@ -22,7 +35,13 @@ function InputFile() {
             Importe quantas imagens quiser
           </Text>
         </Flex>
-        <input type="file" id="upload" style={{ display: `none` }} multiple />
+        <input
+          type="file"
+          id="upload"
+          accept="image/png, image/jpeg"
+          style={{ display: `none` }}
+          onChange={handleImage}
+        />
       </label>
     </form>
   );
