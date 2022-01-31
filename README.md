@@ -1,4 +1,4 @@
-# CLASSIFICAÇÃO DO GRAU DE ALERGIAS USANDO DEEP LEARNING
-## DESAFIOS E OPORTUNIDADES
+# CLASSIFICATION OF THE DEGREE OF ALLERGIES USING DEEP LEARNING
+## CHALLENGES AND OPPORTUNITIES
 
-Site informative e de teste voltado a classifação do grau de alergias.
+Informative and test site aimed at classifying the degree of allergies.
